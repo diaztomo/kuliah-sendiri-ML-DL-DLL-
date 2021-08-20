@@ -1,1 +1,1 @@
-# kuliah
+# kuliah sendiri(ML,DL,DLL)
