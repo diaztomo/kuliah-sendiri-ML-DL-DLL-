@@ -1,1 +1,1 @@
-# kuliah sendiri(ML,DL,DLL)
+# Otodidak dari buku, youtube, dan blog
